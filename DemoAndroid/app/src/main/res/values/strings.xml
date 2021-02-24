@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name_new">DemoAndroid</string>
+    <string name="network_error">You are offline. Check your internet connection!</string>
+    <string name="error_dialog_title">Network Error Alert!</string>
+</resources>
